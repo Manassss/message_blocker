@@ -1,0 +1,16 @@
+# Core ML stack
+scikit-learn==1.4.2
+pandas==2.2.2
+joblib==1.4.2
+
+# API serving
+fastapi==0.111.0
+uvicorn==0.29.0
+
+# Optional: for interactive testing or development
+ipykernel==6.29.4
+notebook==7.2.0
+
+# If you plan to use spaCy or HuggingFace models later
+# spacy==3.7.4
+# transformers==4.41.1
